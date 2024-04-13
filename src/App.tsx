@@ -1,5 +1,3 @@
-
-
-const App = () => <div>Hallo</div>;
+const App = () => <div>Minimal React boilerplate</div>;
 
 export default App;
